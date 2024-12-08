@@ -1,4 +1,4 @@
-# GHG Emissions Monitoring CI/CD Automation Examples
+# GHG Emissions Monitoring CI/CD Automation
 
 This repository contains advanced CI/CD automation examples for monitoring and analyzing greenhouse gas (GHG) emissions. These examples focus on emissions monitoring, visualization, reporting, and anomaly detection.
 
